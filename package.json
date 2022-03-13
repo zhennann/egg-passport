@@ -1,6 +1,6 @@
 {
-  "name": "egg-passport",
-  "version": "2.1.1",
+  "name": "@zhennann/egg-passport",
+  "version": "2.1.2",
   "description": "passport plugin for egg, base on passportjs",
   "eggPlugin": {
     "name": "passport",
@@ -25,7 +25,7 @@
   "dependencies": {
     "@types/passport": "^0.4.7",
     "debug": "^3.1.0",
-    "passport": "^0.3.2"
+    "passport": "^0.5.2"
   },
   "devDependencies": {
     "autod": "^3.0.1",
